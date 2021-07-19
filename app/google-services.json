@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777313118172",
+    "project_id": "ui-tests-fbc5d",
+    "storage_bucket": "ui-tests-fbc5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777313118172:android:2909e262f0a79f39b45119",
+        "android_client_info": {
+          "package_name": "com.paytabs.uitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777313118172-1r4e0pdt671ep694bt928r9kplnsmogk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgY6eH7s2MHdhaMzofrZFRFk-7cQActuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777313118172-1r4e0pdt671ep694bt928r9kplnsmogk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

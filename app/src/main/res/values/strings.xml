@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UiTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_toast">show toast</string>
+    <string name="toast_msg">toast msg</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="make_all_disappear">make all disappear</string>
+    <string name="text_enter_name">text_enter_name</string>
+    <string name="text_ok">text_ok</string>
+</resources>
